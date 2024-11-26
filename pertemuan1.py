@@ -1,0 +1,5 @@
+print("universitas")
+print("dinamika bangsa")
+print("jambi")
+print("aaaaa")
+print("paaaa")
